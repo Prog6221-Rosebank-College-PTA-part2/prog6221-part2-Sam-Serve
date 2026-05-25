@@ -1,0 +1,15 @@
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\bin\Debug\WinChatBot.exe.config
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\bin\Debug\WinChatBot.exe
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\bin\Debug\WinChatBot.pdb
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.csproj.AssemblyReference.cache
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\MainWindow.g.cs
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\App.g.cs
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot_MarkupCompile.cache
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot_MarkupCompile.lref
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\MainWindow.baml
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.g.resources
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.Properties.Resources.resources
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.csproj.GenerateResource.cache
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.csproj.CoreCompileInputs.cache
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.exe
+C:\Users\DONATE\source\repos\WinChatBot\WinChatBot\obj\Debug\WinChatBot.pdb
